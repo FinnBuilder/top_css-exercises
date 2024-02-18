@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+.card {
+    width: 360px;
+    background-color: white;
+    margin: 12px auto;
+    padding: 6px;
+}
+
+.top {
+    background-color: lightblue;
+    margin: 0px 0px 6px 0px;
+    padding: 6px;
+}
+
+.middle {
+    background-color: lightblue;
+    margin: 0px 0px 6px 0px;
+    padding: 6px;
+}
+
+.bottom {
+    background-color: lightblue;
+    text-align: center;
+    padding: 6px;
+}
+
+button {
+    border-color: white;
+    padding: 4px 22px;
+    cursor: pointer;
+
+}
